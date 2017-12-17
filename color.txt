@@ -1,0 +1,6 @@
+blue  #23AEF4
+offwhite text color #acacac
+
+overflow-wrap: break-word;
+
+blog headline #4F5E65
